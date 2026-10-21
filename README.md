@@ -19,3 +19,8 @@ moving into cybersecurity. Focus on **web / application security**,
 
 ## Tools I built
 See my [security-tools](https://github.com/Recepgundogdu1/security-tools) repo.
+
+| Machine | Platform | Difficulty | Topics |
+|---------|----------|------------|--------|
+| [Guided Pentest: Web](thm/guided-pentest-web.md) | TryHackMe | Easy | IDOR, file upload bypass, RCE |
+| [Guided Pentest: Infrastructure](thm/guided-pentest-infrastructure.md) | TryHackMe | Easy | Service enumeration, public exploit, privesc |
